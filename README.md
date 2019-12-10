@@ -9,3 +9,4 @@ Uma view para interação.
 
 ### Requerimentos
 Java 11 ou superior
+Junit 5
